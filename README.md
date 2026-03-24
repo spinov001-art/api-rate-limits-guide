@@ -168,6 +168,9 @@ API changed its limits? [Open a PR](https://github.com/Spinov001-art/api-rate-li
 - [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare AI API costs
 - [More on Dev.to](https://dev.to/0012303)
 
+
+- [API Authentication Guide](https://github.com/Spinov001-art/api-authentication-guide) — OAuth, API Keys, Bearer Tokens with code
+
 ## License
 
 MIT
