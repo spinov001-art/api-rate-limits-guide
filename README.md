@@ -171,6 +171,16 @@ API changed its limits? [Open a PR](https://github.com/Spinov001-art/api-rate-li
 
 - [API Authentication Guide](https://github.com/Spinov001-art/api-authentication-guide) — OAuth, API Keys, Bearer Tokens with code
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT
