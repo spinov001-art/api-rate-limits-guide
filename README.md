@@ -166,7 +166,7 @@ API changed its limits? [Open a PR](https://github.com/Spinov001-art/api-rate-li
 - [Python Data Pipelines](https://github.com/Spinov001-art/python-data-pipelines) — Templates that respect rate limits
 - [Awesome Web Scraping 2026](https://github.com/Spinov001-art/awesome-web-scraping-2026) — 500+ scraping tools
 - [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare AI API costs
-- [More on Dev.to](https://dev.to/0012303)
+- [More on GitHub](https://github.com/spinov001-art)
 
 
 - [API Authentication Guide](https://github.com/Spinov001-art/api-authentication-guide) — OAuth, API Keys, Bearer Tokens with code
