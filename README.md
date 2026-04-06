@@ -179,7 +179,11 @@ API changed its limits? [Open a PR](https://github.com/Spinov001-art/api-rate-li
 
 Built by Alex Spinov — production-grade web scrapers and data tools.
 
-- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+- [79 scrapers on Apify](https://apify.com/knotless_cadence) | [265+ GitHub repos](https://github.com/spinov001-art)
+
+**Need help with API rate limits or data collection?** Custom scraper delivered in 48 hours — $100 flat rate. Email **spinov001@gmail.com**
+
+**For companies:** Sponsored technical article about your API reaching developers weekly. Pilot rate: $100/article. Email **spinov001@gmail.com**
 
 ## License
 
